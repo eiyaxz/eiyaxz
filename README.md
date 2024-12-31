@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/banner.png" width=350 align="left" />
+  <img src="/banner.png" width=250 height=200 align="left" />
   <p float="left">
     <samp>
       eiya! | he/him
